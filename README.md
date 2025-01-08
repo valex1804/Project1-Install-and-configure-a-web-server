@@ -26,3 +26,20 @@ Custom partitioning for Ubuntu Server:
 ⛃ /home: 5 GB ;
 
 👉 In conclusion, this project gave me confidence to tackle real-world scenarios. I realized that mistakes are part of the learning process, and solving them step by step helps me grow.
+
+## Overview of the project :
+> 1. Custom partition of Ubuntu server
+> 2. Check system after install
+> 3. Install ssh
+> 4. Create an administrative user for managing remote the server
+> 5. Configure and use a static ip
+> 6. Generate ssh key for administrative user
+> 7. Install ufw and configure
+> 8. Configure backup plan ( python script + cronjob)
+> 9. Implement cronjob with python script for backup
+> 10. Install and configure Apache2
+> 11. Install and configure Noip2 and portforwarding for DNS
+> 12. Try to acces the Web server
+> 13. Lessons Learned and Conclusion
+
+✅ // To access the complete project documentation, which provides a detailed, step-by-step explanation of the entire process, please download and review the attached PDF. // ✅
