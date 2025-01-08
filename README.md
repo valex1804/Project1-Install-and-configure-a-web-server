@@ -43,3 +43,5 @@ Custom partitioning for Ubuntu Server:
 > 13. Lessons Learned and Conclusion
 
 ✅ // To access the complete project documentation, which provides a detailed, step-by-step explanation of the entire process, please download and review the attached PDF. // ✅
+- link to acces -> https://drive.google.com/file/d/17XULsxRS6eCktnIRJZnRlvIlQmy6jeaT/view?usp=drive_link
+- donwload and review the attached PDF from this repository 
